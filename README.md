@@ -4,4 +4,4 @@ Meu primeiro projeto utilizando HTML, CSS e um pouco de Javascript. Fiz seguindo
 
  https://gabs-ag.github.io/minhapagina/index.html
 
-<!-- <img width="1680" alt="2022-05-13 (2).png" src="2022-05-13 (2).png"> -->
+<img width="1680" alt="2022-05-13 (2).png" src="2022-05-13 (2).png">
